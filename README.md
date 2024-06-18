@@ -10,8 +10,8 @@ And replace g2o with ceres-solver by google for single path optimization.
 
 ![](./others/single_path.png)
 ![](./others/multiple_path.png)
-![](./others/2023-09-04_20-48-03.mp4)
-![](./others/2023-09-04_20-54-56.mp4)
+![](https://github.com/gxt-kt/teb_local_planner/blob/change_g2o_to_ceres/others/2023-09-04_20-48-03.mp4)
+![](https://github.com/gxt-kt/teb_local_planner/blob/change_g2o_to_ceres/others/2023-09-04_20-54-56.mp4)
 
 
 ## Dependence
