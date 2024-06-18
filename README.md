@@ -14,16 +14,6 @@ https://github.com/gxt-kt/teb_local_planner/assets/47113549/186bdbf4-459d-4e9b-a
 https://github.com/gxt-kt/teb_local_planner/assets/47113549/bf2d2f89-1b7e-4355-822a-38db05d1844e
 
 
-
----
-
-https://github.com/gxt-kt/teb_local_planner/blob/change_g2o_to_ceres/others/2023-09-04_20-48-03.mp4
-
----
-
-https://github.com/gxt-kt/teb_local_planner/blob/change_g2o_to_ceres/others/2023-09-04_20-54-56.mp4
-
-
 ## Dependence
 
 - C++17 compiler (tested on gcc 9.1 and gcc 13.2)
