@@ -8,10 +8,12 @@ Which can run without the ros framework and use opencv for displaying.
 
 And replace g2o with ceres-solver by google for single path optimization.
 
-![](./others/single_path.png)
-![](./others/multiple_path.png)
-![](https://github.com/gxt-kt/teb_local_planner/blob/change_g2o_to_ceres/others/2023-09-04_20-48-03.mp4)
-![](https://github.com/gxt-kt/teb_local_planner/blob/change_g2o_to_ceres/others/2023-09-04_20-54-56.mp4)
+
+https://github.com/gxt-kt/teb_local_planner/assets/47113549/186bdbf4-459d-4e9b-a991-b0c8f2f9e75e
+
+https://github.com/gxt-kt/teb_local_planner/assets/47113549/bf2d2f89-1b7e-4355-822a-38db05d1844e
+
+
 
 ---
 
